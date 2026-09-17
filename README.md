@@ -24,19 +24,19 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I am a Computer Science undergrad at Chandigarh University (Class of 2027) with a strong foundation in backend architecture, data engineering pipelines, and theoretical computer science. I thrive on solving complex algorithmic challenges and building scalable, data-driven applications.
 
-* 🎓 **Education:** B.E. in Computer Science (CGPA: 8.38)
-* 💡 **What I'm exploring:** Cloud database technologies (Oracle Vector Stores), RAG setups, and blockchain architectures.
-* 💻 **Currently working on:** Containerizing workflows with Docker and optimizing full-stack applications.
-* 🏆 **Competitive Programming:** Solved **1300+ DSA problems** and authored 70+ SQL queries across LeetCode, CodeForces, and GeeksforGeeks.
-* 🤝 **Community:** Treasurer & Sr. Graphics Lead at IEEE; Reviewer for INDISCON 2025.
+*  **Education:** B.E. in Computer Science (CGPA: 8.38)
+*  **What I'm exploring:** Cloud database technologies (Oracle Vector Stores), RAG setups, and blockchain architectures.
+*  **Currently working on:** Containerizing workflows with Docker and optimizing full-stack applications.
+*  **Competitive Programming:** Solved **1300+ DSA problems** and authored 70+ SQL queries across LeetCode, CodeForces, and GeeksforGeeks.
+*  **Community:** Treasurer & Sr. Graphics Lead at IEEE; Reviewer for INDISCON 2025.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 <p>
@@ -65,17 +65,17 @@ I am a Computer Science undergrad at Chandigarh University (Class of 2027) with 
 
 ---
 
-### 🏆 Certifications & Achievements
+###  Certifications & Achievements
 
-* 🥇 **Winner**, CodeRelay 2.0 (National Coding Competition)
-* 🥇 **Winner**, CU Project Expo 2026 (National Project Exhibition)
-* ☁️ **OCI Certified Generative AI Professional** – Oracle
-* 🥈 **Silver Medalist**, Cloud Computing – NPTEL (IIT Kharagpur)
-* 📊 **Certified in Tech-A Data Analytics** – Infosys Springboard
+*  **Winner**, CodeRelay 2.0 (National Coding Competition)
+*  **Winner**, CU Project Expo 2026 (National Project Exhibition)
+*  **OCI Certified Generative AI Professional** – Oracle
+*  **Silver Medalist**, Cloud Computing – NPTEL (IIT Kharagpur)
+*  **Certified in Tech-A Data Analytics** – Infosys Springboard
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
