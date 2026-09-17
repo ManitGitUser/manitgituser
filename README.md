@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi , I'm Manit Saxena</h1>
+<h4 align="center">Hi , I'm Manit Saxena</h4>
 <h3 align="center">Backend Developer | Data Engineering Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
