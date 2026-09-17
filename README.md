@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Manit Saxena</h1>
+<h1 align="center">Hi , I'm Manit Saxena</h1>
 <h3 align="center">Backend Developer | Data Engineering Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
@@ -82,4 +82,3 @@ I am a Computer Science undergrad at Chandigarh University (Class of 2027) with 
   <a href="https://linkedin.com/in/manit-saxena"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/_Manit_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
-###
